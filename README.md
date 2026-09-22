@@ -10,9 +10,15 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/AjayDev007-lab">
+
+  <a href="https://github.com/AjayDev007-lab?tab=repositories">
     <img src="https://img.shields.io/badge/View%20My%20Projects-FF1E1E?style=for-the-badge&logo=github&logoColor=white">
   </a>
+
+  <a href="https://github.com/AjayDev007-lab/AjayDev007-lab/blob/main/Ajay-Dev-Resume.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/View%20Resume-181717?style=for-the-badge&logo=readthedocs&logoColor=white">
+  </a>
+
 </p>
 ---
 
