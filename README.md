@@ -1,19 +1,27 @@
-<h1 align="center">Hi 👋, I'm Ajay Dev</h1>
+<div align="center">
 
-<h3 align="center">
-  Data Analyst 📊 | Data Scientist 🤖
-</h3>
+<h1>Hi 👋, I'm <span style="color:#ff2d2d;">Ajay Dev</span></h1>
 
-<p align="center">
-  Turning raw data into meaningful insights and practical solutions.
+<h3>📊 Data Analyst &nbsp;|&nbsp; 🧠 Data Scientist</h3>
+
+<p>
+Turning raw data into meaningful insights using
+<b>Excel • SQL • Python • Power BI • Machine Learning</b>
 </p>
 
-<p align="center">
-  <a href="https://github.com/AjayDev007-lab">
-    <img src="https://img.shields.io/badge/View%20My%20Projects-FF1E1E?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-</p>
+<img src="https://img.shields.io/badge/OPEN%20TO%20OPPORTUNITIES-FF1E1E?style=for-the-badge" />
 
+<br><br>
+
+<a href="https://github.com/AjayDev007-lab?tab=repositories">
+<img src="https://img.shields.io/badge/VIEW%20MY%20WORK-FF1E1E?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<a href="www.linkedin.com/in/ajay--dev">
+<img src="https://img.shields.io/badge/LET'S%20CONNECT-181717?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+</div>
 ---
 
 ## 🔴 About Me
