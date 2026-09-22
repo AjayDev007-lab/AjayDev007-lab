@@ -17,7 +17,7 @@ Turning raw data into meaningful insights using
 <img src="https://img.shields.io/badge/VIEW%20MY%20WORK-FF1E1E?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
-<a href="www.linkedin.com/in/ajay--dev">
+<a href="[YOUR_LINKEDIN_URL](https://www.linkedin.com/in/ajay--dev/)">
 <img src="https://img.shields.io/badge/LET'S%20CONNECT-181717?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
