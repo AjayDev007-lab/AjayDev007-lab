@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="github-banner.png" width="100%" alt="Ajay Dev - Data Analyst and Data Scientist">
+</p>
 
 <h1 align="center">Hi 👋, I'm Ajay Dev</h1>
 
