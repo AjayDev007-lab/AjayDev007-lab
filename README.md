@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi 👋, I'm Ajay Dev</h1>
 
 <h3 align="center">
@@ -93,6 +94,18 @@ I'm an aspiring **Data Analyst & Data Scientist** focused on transforming raw da
 </p>
 
 ---
+
+<p align="center">
+  <b>“Turning Data Into Insights. Turning Insights Into Impact.”</b>
+</p>
+
+---
+
+## 🔴 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AjayDev007-lab&label=Profile%20Views&color=red&style=for-the-badge" />
+</p>
 
 <p align="center">
   <b>“Turning Data Into Insights. Turning Insights Into Impact.”</b>
