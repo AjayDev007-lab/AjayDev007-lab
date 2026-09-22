@@ -82,10 +82,8 @@ I'm an aspiring **Data Analyst & Data Scientist** focused on transforming raw da
 
 <a href="https://www.linkedin.com/in/ajay--dev/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-FF1E1E?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="mailto:ajaydevvs22102004@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact%20Me-FF1E1E?style=for-the-badge&logo=gmail&logoColor=white" />
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=ajaydevvs22102004@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-Contact%20Me-FF1E1E?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <a href="https://github.com/AjayDev007-lab">
