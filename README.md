@@ -80,7 +80,7 @@ I'm an aspiring **Data Analyst & Data Scientist** focused on transforming raw da
 
 <p align="center">
 
-<a href="www.linkedin.com/in/ajay--dev">
+<a href="https://www.linkedin.com/in/ajay--dev/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-FF1E1E?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
