@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="github-banner.png" width="100%" alt="Ajay Dev - Data Analyst and Data Scientist">
-</p>
+
 
 <h1 align="center">Hi 👋, I'm Ajay Dev</h1>
 
@@ -118,4 +116,12 @@ I'm an aspiring **Data Analyst & Data Scientist** focused on transforming raw da
 
 <p align="center">
   <b>“Turning Data Into Insights. Turning Insights Into Impact.”</b>
+</p>
+
+
+
+
+
+
+
 </p>
