@@ -69,15 +69,21 @@ I'm an aspiring **Data Analyst & Data Scientist** focused on transforming raw da
 
 📑 **Excel** — Pivot Tables, Power Query, Lookups & Dashboard Creation
 
+
+
+
+
 ---
 
-## 🔴 GitHub Statistics
+## 🔴 Education
 
+🎓 **Bachelor of Engineering (B.E.) – Computer Science and Engineering**
 
+🏫 **St. Xavier's Catholic College of Engineering**  
+📅 **2022 – 2026**
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=AjayDev007-lab&theme=dark&hide_border=true&ring=FF1E1E&fire=FF1E1E&currStreakLabel=FF1E1E" />
-</p>
+**Relevant Areas:**  
+Data Analytics • Data Science • Python • SQL • Machine Learning • Database Management
 
 
 ---
